@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 ### Contact
 
-For inquiries or collaboration opportunities, please reach out via email at [your-email@example.com].
+For inquiries or collaboration opportunities, please reach out via email at [mustafa.ayman776@gmail.com].
 
 ### Contribution
 
